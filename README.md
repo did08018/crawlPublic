@@ -1,2 +1,3 @@
 # crawlPublic
 # crawlIsGood
+# crawlIsAll
